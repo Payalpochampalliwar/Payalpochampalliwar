@@ -20,5 +20,5 @@ Developed a Reminder Application with Notification functionality to help users m
 **##[Breast Cancer Prediction System Using Machine Learning](https://github.com/Payalpochampalliwar/breast_cancer_prediction_project)**
 "A machine learning project for breast cancer classification using Logistic Regression and Streamlit."
 
-**##[Multiple Disease Prediction System Using Machine Learning])**
+**##[Multiple Disease Prediction System Using Machine Learning](https://github.com/Payalpochampalliwar/Multiple_Disease_Prediction_System.git)**
 "A machine learning project for Multiple diseases prediction using various machine learning methods or algorithmn."
