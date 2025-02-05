@@ -22,3 +22,6 @@ Developed a Reminder Application with Notification functionality to help users m
 
 **##[Multiple Disease Prediction System Using Machine Learning](https://github.com/Payalpochampalliwar/Multiple_Disease_Prediction_System.git)**
 "A machine learning project for Multiple diseases prediction using various machine learning methods or algorithmn."
+
+**##[Property Rental Management System](https://github.com/Payalpochampalliwar/Property_Rental_Management_System.git)**
+"A machine learning project for Multiple diseases prediction using various machine learning methods or algorithmn."
