@@ -24,4 +24,4 @@ Developed a Reminder Application with Notification functionality to help users m
 "A machine learning project for Multiple diseases prediction using various machine learning methods or algorithmn."
 
 **##[Property Rental Management System](https://github.com/Payalpochampalliwar/Property_Rental_Management_System.git)**
-"A machine learning project for Multiple diseases prediction using various machine learning methods or algorithmn."
+"Builded a Django backend for a property rental platform where landlords can list their properties, tenants can browse listings and book properties, and both parties can manage their rental agreements, payments, and reviews."
