@@ -1,27 +1,22 @@
-- 👋 Hi, I’m @Payalpochampalliwar
-- 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate on coding
-- 📫 How to reach me ...
+ <h1 align="center">Hi 👋, I'm Payal Pochampalliwar</h1>
+<h3 align="center">A passionate developer from India</h3>
 
-  # My Projects
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=payalpochampalliwar&label=Profile%20views&color=0e75b6&style=flat" alt="payalpochampalliwar" /> </p>
 
-**## [Office Employee Management System](https://github.com/Payalpochampalliwar/Office-Employee-Management-System.git)**
-A Django-based web application to streamline employee data management and administrative tasks.
+- 🌱 I’m currently learning **javascript**
 
-**##[Helmet and Number Plate detection using YOLOv5](https://github.com/Payalpochampalliwar/Helmet-NumberPlateDetectionUsingYoloV5)**
-This is project is extracting motorcycle license plates if the rider or back sitter is not wearing a helmet.
+- 💬 Ask me about **Python, Django, DjangoRestFramework**
 
-**## [Brew Master-Interface](https://github.com/Payalpochampalliwar/BrewMaster-Interface.git)**
-Developed a Brew Master Interface using Python, leveraging its object-oriented programming capabilities to create a user-friendly and efficient system for controlling and monitoring brewing processes.
+- 📫 How to reach me **payalp1572@gmail.com**
 
-**## [Reminder Application with Notification](https://github.com/Payalpochampalliwar/ReminderApplicationWithNotification.git)**
-Developed a Reminder Application with Notification functionality to help users manage their tasks and events efficiently. 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/http://www.linkedin.com/in/payal-pochampalliwar-279330332" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://www.linkedin.com/in/payal-pochampalliwar-279330332" height="30" width="40" /></a>
+</p>
 
-**##[Breast Cancer Prediction System Using Machine Learning](https://github.com/Payalpochampalliwar/breast_cancer_prediction_project)**
-"A machine learning project for breast cancer classification using Logistic Regression and Streamlit."
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-**##[Multiple Disease Prediction System Using Machine Learning](https://github.com/Payalpochampalliwar/Multiple_Disease_Prediction_System.git)**
-"A machine learning project for Multiple diseases prediction using various machine learning methods or algorithmn."
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=payalpochampalliwar&show_icons=true&locale=en&layout=compact" alt="payalpochampalliwar" /></p>
 
-**##[Property Rental Management System](https://github.com/Payalpochampalliwar/Property_Rental_Management_System.git)**
-"Builded a Django backend for a property rental platform where landlords can list their properties, tenants can browse listings and book properties, and both parties can manage their rental agreements, payments, and reviews."
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=payalpochampalliwar&" alt="payalpochampalliwar" /></p>
