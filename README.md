@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **react.js**
 
-- 👯 I’m looking to collaborate on **Python native Projects**
+- 👯 I’m looking to collaborate on **Python Developer**
 
 - 🤝 I’m looking for help with **Frontend**
 
@@ -23,4 +23,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=payalpochampalliwar&show_icons=true&locale=en&layout=compact" alt="payalpochampalliwar" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=payalpochampalliwar&show_icons=true&locale=en" alt="payalpochampalliwar" /></p>
