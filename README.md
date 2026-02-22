@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=payalpochampalliwar&label=Profile%20views&color=0e75b6&style=flat" alt="payalpochampalliwar" /> </p>
 
-- 🌱 I’m currently learning **PHP**
+- 🌱 I’m currently learning **Agentic AI**
 
-- 👯 I’m looking to collaborate on **Developer**
+- 👯 I’m looking to collaborate on **RPA Developer**
 
 - 🤝 I’m looking for help with **Frontend**
 
-- 💬 Ask me about **Python, Django, DjangoRestFramework**
+- 💬 Ask me about **Python, Django, DjangoRestFramework, RPA**
 
 - 📫 How to reach me **payalp1572@gmail.com**
 
